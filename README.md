@@ -1,2 +1,2 @@
-# ccc-demo
-Demo for creative coding community virtual platform
+# vc-demo
+Frontend mockup for virtual community platform using Bulma.
